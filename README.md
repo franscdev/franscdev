@@ -1,61 +1,103 @@
-# Hi there! I'm Francisco Soto
+Hi there! I'm Francisco Soto
 
-Data Annotation Specialist at Amazon | Data & Machine Learning Professional in Development | Kaggle Competitor
+Machine Learning Associate II at Amazon | Data & ML Projects | Cybersecurity Learner | Kaggle Competitor
 
----
+🚀 About Me
 
-## 🚀 About Me
+I work at Amazon contributing to AI systems through structured data annotation, evaluation, and data quality processes.
 
-I currently work at Amazon contributing to AI systems through structured data annotation and evaluation processes.  
+Outside of work, I independently develop data analysis and machine learning projects and study cybersecurity through hands-on lab practice. My repositories reflect my self-directed learning, experimentation, and continuous improvement.
 
-In parallel, I independently develop data science and machine learning projects during my personal time. These repositories reflect my self-driven learning journey and practical experimentation beyond formal training.
+I have completed a one-year technical program in Data Analysis. I continue to strengthen my skills through applied projects, Kaggle competitions, and practical study.
 
-I have completed a one-year technical program in Data Analysis and continue to deepen my knowledge through daily practice, Kaggle competitions, and applied ML projects. My objective is to transition into more advanced data and machine learning roles by building real, production-oriented systems.
+My current cybersecurity learning focuses on Linux, networking fundamentals, and introductory security testing in a virtual lab using Kali Linux and Metasploitable within VMware. I am building foundational knowledge and need continued practice to develop proficiency.
 
-I actively leverage modern AI tools to accelerate learning, experimentation, and implementation — using them as a complement to structured study and hands-on development.
+I use modern AI tools to support learning, experimentation, and implementation alongside structured study and hands-on work.
 
----
+🧠 Independent Projects & Interests
 
-## 🧠 Independent Projects
-
-All repositories showcased here are personal initiatives developed outside of my professional responsibilities.
+All projects showcased here are personal initiatives developed outside of my professional responsibilities.
 
 Current areas of focus:
 
-- Old Assyrian Machine Translation (ByT5, NLP)
-- Out-of-Fold (OOF) ensembling strategies
-- GPU optimization workflows on Linux
-- Data modeling, evaluation systems, and performance tracking
-- Applied experimentation in ML for finance
+Old Assyrian machine translation with ByT5 and NLP
 
----
+Out-of-Fold (OOF) ensembling and model evaluation
 
-## 🛠 Technical Stack
+GPU optimization workflows on Linux
 
-- Python
-- PyTorch
-- Hugging Face Transformers
-- SQL
-- Git
-- Streamlit
-- Linux environments
+Data modeling, evaluation systems, and performance tracking
 
----
+Applied experimentation in ML for finance
 
-## 📈 Professional Direction
+Cybersecurity fundamentals and virtual lab practice
 
-- Strengthening ML engineering foundations
-- Competing in Kaggle to benchmark real-world performance
-- Building scalable, production-ready ML pipelines
-- Expanding applied knowledge through disciplined daily practice
+🔐 Cybersecurity Learning
 
----
+I am currently gaining hands-on familiarity with:
 
-## 📫 Connect With Me
+Lab environment: Kali Linux and Metasploitable virtual machines in VMware
 
-- LinkedIn: https://linkedin.com/in/fransccr
-- GitHub: https://github.com/franscdev
+Linux: command-line syntax, filesystem navigation, and basic system operations
 
----
+Networking: IP addressing, ports, services, and introductory server concepts
 
-> Continuous improvement through disciplined learning, experimentation, and applied projects.
+Nmap: host discovery, port scanning, and service enumeration in lab environments
+
+Nikto: introductory web server security scanning
+
+John the Ripper: introductory password auditing using lab examples
+
+recon-ng: introductory reconnaissance workflows
+
+My next learning goals are to improve my understanding of scan results, document findings clearly, and develop a more systematic approach to security assessment and remediation.
+
+Security practice is conducted in controlled lab environments or explicitly authorized systems.
+
+🛠 Technical Stack
+
+Data & Machine Learning
+
+Python and SQL
+
+PyTorch
+
+Hugging Face Transformers
+
+Streamlit
+
+Model evaluation and data quality workflows
+
+Development & Environments
+
+Git
+
+Linux
+
+VMware
+
+Cybersecurity — Foundational Practice
+
+Kali Linux and Metasploitable
+
+Nmap, Nikto, John the Ripper, and recon-ng
+
+📈 Professional Direction
+
+Strengthening data analysis and ML engineering foundations
+
+Using Kaggle competitions to evaluate modeling approaches
+
+Developing reliable, reproducible data and ML pipelines
+
+Building cybersecurity foundations through structured study and lab practice
+
+Improving technical documentation and turning practice into demonstrable projects
+
+📫 Connect With Me
+
+LinkedIn
+
+GitHub
+
+Continuous improvement through disciplined learning, experimentation, and applied projects.
