@@ -1,8 +1,8 @@
-Hi there! I'm Francisco Soto
+# Hi there! I'm Francisco Soto
 
 Machine Learning Associate II at Amazon | Data & ML Projects | Cybersecurity Learner | Kaggle Competitor
 
-🚀 About Me
+## 🚀 About Me
 
 I work at Amazon contributing to AI systems through structured data annotation, evaluation, and data quality processes.
 
@@ -14,7 +14,7 @@ My current cybersecurity learning focuses on Linux, networking fundamentals, and
 
 I use modern AI tools to support learning, experimentation, and implementation alongside structured study and hands-on work.
 
-🧠 Independent Projects & Interests
+## 🧠 Independent Projects & Interests
 
 All projects showcased here are personal initiatives developed outside of my professional responsibilities.
 
@@ -32,7 +32,7 @@ Applied experimentation in ML for finance
 
 Cybersecurity fundamentals and virtual lab practice
 
-🔐 Cybersecurity Learning
+## 🔐 Cybersecurity Learning
 
 I am currently gaining hands-on familiarity with:
 
@@ -82,7 +82,7 @@ Kali Linux and Metasploitable
 
 Nmap, Nikto, John the Ripper, and recon-ng
 
-📈 Professional Direction
+## 📈 Professional Direction
 
 Strengthening data analysis and ML engineering foundations
 
@@ -94,7 +94,7 @@ Building cybersecurity foundations through structured study and lab practice
 
 Improving technical documentation and turning practice into demonstrable projects
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 LinkedIn
 
